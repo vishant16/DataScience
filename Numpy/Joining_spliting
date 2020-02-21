@@ -1,1 +1,6 @@
 a=np.concatenate([a,b])
+
+or
+
+a=np.vstack([a,b])
+a=np.hstack([a,b])
